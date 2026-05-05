@@ -1,5 +1,5 @@
 function createLayout() {
-    console.log("Layout created");
+    console.log("Initial layout created");
 }
 
 createLayout();
